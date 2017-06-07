@@ -27,3 +27,18 @@ h3 {
 	font-size: 23px;
 	font-weight: bold;
 }
+
+p {
+	font-size: 14px;
+}
+
+.footer {
+	font-size: 11px;
+	color: white;
+	background-color: dimgray;
+	text-align: left;
+}
+
+.footer a {
+	color: white;
+}
